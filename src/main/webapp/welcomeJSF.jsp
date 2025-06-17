@@ -19,9 +19,9 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 13 de Junio de 2025 7:33pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit para Github Actions 7:53pm" /></h1>
                 <br/>
-                <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
+                <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Categories Items" id="linkCats" />
 
