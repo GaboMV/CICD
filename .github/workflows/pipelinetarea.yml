@@ -42,7 +42,7 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: gustavopalabral/cicddockerimagegithubactions2025
+        tags: gabo1710/cicddockerimagegithubactions2025
 
 
 
