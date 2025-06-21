@@ -42,7 +42,7 @@
         </head>
         <body>
             <h:messages errorStyle="color: red" infoStyle="color: green" layout="table"/>
-            <h1>Listing Customer Items</h1>
+            <h1>Listing Cufesfsefs stomer Items</h1>
             <h:form styleClass="jsfcrud_list_form">
                 <h:outputText escape="false" value="(No Customer Items Found)<br />" rendered="#{customer.pagingInfo.itemCount == 0}" />
                 <h:panelGroup rendered="#{customer.pagingInfo.itemCount > 0}">
